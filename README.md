@@ -70,7 +70,7 @@ Like **Tanjiro Kamado’s** unwavering spirit, I strive to learn continuously, s
 
 <p align="center">
   <a href="https://github.com/tanishqrastogi"><img src="https://img.shields.io/badge/GitHub-Check%20my%20Repos-black?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/tanishq-rastogi"><img src="https://img.shields.io/badge/LinkedIn-Hashira%20Network-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="www.linkedin.com/in/tanishq-rastogi-42b638326"><img src="https://img.shields.io/badge/LinkedIn-Hashira%20Network-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-Coding%20Breath-skyblue?style=for-the-badge&logo=twitter"></a>
 </p>  
 
