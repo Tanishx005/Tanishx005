@@ -1,89 +1,31 @@
-# 🩸⚔️ *"Breathing Code: First Form"* ⚔️🩸
+# 💫 About Me:
+Pre-final year B.Tech CSE student at GLA University, Mathura | Specializing in Cloud Computing and DevOps | Building scalable applications and exploring modern infrastructure tools
 
-**Welcome to my GitHub Profile — Inspired by *Demon Slayer***
 
-```
-━━━━━━━━━━━━━━━━━━━━ ⚔️ ━━━━━━━━━━━━━━━━━━━━
-```
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanishx_005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanishq-rastogi-42b638326) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Tank_005) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanishq2326@gmail.com) 
 
-## 🌸 Introduction
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Tanishx005&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Tanishx005&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tanishx005&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-*"In this vast digital world, I walk the path of a Demon Slayer — not with a Nichirin Blade, but with the power of code."*
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Tanishx005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-I’m **Tanishq Rastogi**, a 2nd-year **B.Tech CSE student at GLA University, Mathura**.
-Currently walking the **Cloud + DevOps track**, with a strong focus on **AWS** and aiming for the **Cloud AI/ML career path**.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-Like **Tanjiro Kamado’s** unwavering spirit, I strive to learn continuously, stay resilient in challenges, and sharpen my skills with every line of code.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Tanishx005&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-```
-━━━━━━━━━━━━━━━━━━━━ ⚔️ ━━━━━━━━━━━━━━━━━━━━
-```
+---
+[![](https://komarev.com/ghpvc/?username=Tanishx005&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌌 Profile Picture Idea
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Tanishq (7ANX)) 
 
-🔮 A profile picture styled like an **anime portrait**:
-
-* A silhouette holding a glowing katana with code flowing down the blade.
-* Colors inspired by Tanjiro’s checkered haori (green & black) or Nezuko’s pink patterns.
-* Optional: Commission anime-style fan art or use an avatar generator with a *Demon Slayer* flair.
-
-```
-━━━━━━━━━━━━━━━━━━━━ ⚔️ ━━━━━━━━━━━━━━━━━━━━
-```
-
-## 🔥 Skills — *Breathing Styles of Code*
-
-🌊 **Water Breathing** – *Clean, structured code*
-⚡ **Thunder Breathing** – *Fast and efficient problem-solving*
-🌳 **Beast Breathing** – *Exploring raw data and algorithms*
-🌸 **Flower Breathing** – *Design & UI with aesthetics in mind*
-
-**Technical Nichirin Blade Arsenal**:
-
-* ☁️ AWS | 🐧 Linux | 🔧 DevOps Tools
-* 🐍 Python | 💻 Java | 🗄️ Databases
-* 🌐 HTML / CSS / JS | ⚙️ Git & GitHub | 🤖 AI/ML (beginner)
-
-```
-━━━━━━━━━━━━━━━━━━━━ ⚔️ ━━━━━━━━━━━━━━━━━━━━
-```
-
-## 📜 Project Scrolls (*Missions Completed*)
-
-✨ **[Project: Hashira Cloud](#)**
-
-> *Like the Pillars, this project is a strong foundation in cloud computing — deploying scalable apps on AWS.*
-
-⚔️ **[Project: Nichirin Script](#)**
-
-> *A scripting toolkit as sharp as a blade — automating repetitive tasks with Python.*
-
-🌸 **[Project: Nezuko’s Box](#)**
-
-> *A secure storage solution, inspired by Nezuko’s resilience and hidden strength.*
-
-```
-━━━━━━━━━━━━━━━━━━━━ ⚔️ ━━━━━━━━━━━━━━━━━━━━
-```
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/tanishqrastogi"><img src="https://img.shields.io/badge/GitHub-Check%20my%20Repos-black?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/tanishq-rastogi-42b638326/"><img src="https://img.shields.io/badge/LinkedIn-Hashira%20Network-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-Coding%20Breath-skyblue?style=for-the-badge&logo=twitter"></a>
-</p>  
-
-```
-━━━━━━━━━━━━━━━━━━━━ ⚔️ ━━━━━━━━━━━━━━━━━━━━
-```
-
-## 🕊️ Footer
-
-*"No matter how rough the battle, I’ll keep moving forward — one commit, one project, one dream at a time."*
-
-💮 **– Code Hashira (Tanishq)** 💮
-
-```
-━━━━━━━━━━━━━━━━━━━━ ⚔️ ━━━━━━━━━━━━━━━━━━━━
-```
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
